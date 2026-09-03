@@ -30,7 +30,8 @@ A modern, responsive **Full Stack Developer Portfolio Website** built using HTML
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** HTML5, CSS3, JavaScript  
+- **Frontend:** HTML5, CSS3, JavaScript, React.js
+- **Backend:** Java, Node.js, Spring
 - **Styling:** Custom CSS (Flexbox + Grid)  
 - **Fonts:** Google Fonts (Syne, DM Sans)  
 - **Deployment:** Vercel  
@@ -54,7 +55,7 @@ Brief introduction, career goals, and background.
 
 ### 🧠 Skills
 Categorized skills:
-- Backend (Java, Python, Spring Boot, Django)
+- Backend (Java, Node.js, Spring Boot, Django)
 - Frontend (React, JS, HTML, CSS)
 - Tools & Databases
 
@@ -65,9 +66,8 @@ Internships:
 - Python Full Stack Intern — Excler  
 
 ### 🚀 Projects
-- Django Web Application  
-- Spring Boot REST API  
-- Enterprise SaaS Module  
+- Full Stack Web Application  
+- Spring Boot REST API   
 - Database Optimization Project  
 - Responsive UI Projects  
 
