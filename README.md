@@ -7,7 +7,7 @@ A modern, responsive **Full Stack Developer Portfolio Website** built using HTML
 ## 🚀 Live Demo
 
 🔗 **View Portfolio:**  
-👉 https://portfolio-kkxv-hirhr3r41-bubattina-subbaraos-projects.vercel.app/
+👉 portfolio-2bjj-o0ju8xlae-bubattina-subbaraos-projects.vercel.app
 
 ---
 
